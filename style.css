@@ -1,0 +1,32 @@
+body {	
+    background: #00ffff;
+
+font-family: 'Calligraffitti', cursive;
+
+}
+
+h2 {
+	color 
+}
+
+#title {
+	background: red;
+	width: 800px;
+	padding-left: 10px;
+	padding-bottom: 15px;
+	border-radius: 5px;
+}
+
+#main {
+	background: white;
+	width: 800px;
+	padding: 15px;
+	margin-top: 15px;
+	margin-left: 15px;
+	border-radius: 5px;
+}
+
+#main p {
+	color: blue
+}
+
